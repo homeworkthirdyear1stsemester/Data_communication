@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jnetpcap">
+    <CLASSES>
+      <root url="jar://E:/1.homework/2019년 과제_1학기/데이터 통신/데이터통신_실습자료/데이터통신_실습자료03/Jnetpcap/jnetpcap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://E:/1.homework/2019년 과제_1학기/데이터 통신/데이터통신_실습자료/데이터통신_실습자료03/Jnetpcap" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
